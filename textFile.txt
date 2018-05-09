@@ -6,3 +6,7 @@ This sentence is a pangram,  a sentence that contains all of the letters of the 
 aasdfgh
 
 I love working with vi "This line added by moi"
+Today is probably good weather
+I have made some changes
+
+
